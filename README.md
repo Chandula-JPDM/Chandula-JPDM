@@ -29,8 +29,6 @@ My name is Chandula and I'm a Undergraduate at Department of Computer Engineerin
 [2]: https://www.linkedin.com/in/chandulajpdm/
 
 <!--
-**Chandula-JPDM/Chandula-JPDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
