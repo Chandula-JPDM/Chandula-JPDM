@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/Chandula-JPDM/Chandula-JPDM/main/header.png "Header")
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Chandula and I'm a Undergraduate at Department of Computer Engineering, University of Peradeniya. I'm from Sri Lanka, living in Colombo. I worked as a intern at Network and Communication Service Unit of University of Peradeniya. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
