@@ -1,10 +1,11 @@
 ![Header](https://raw.githubusercontent.com/Chandula-JPDM/Chandula-JPDM/main/header.png "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/Chandula-JPDM/Chandula-JPDM/main/wave.gif" width="30px" height="30px" />
 
-My name is Chandula and I'm a Undergraduate at Department of Computer Engineering, University of Peradeniya. I'm from Sri Lanka, living in Colombo. I worked as a intern at Network and Communication Service Unit of University of Peradeniya. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
+My name is Chandula and I'm a Undergraduate at Department of Computer Engineering, University of Peradeniya. I'm from Sri Lanka, living in Colombo. I worked as a intern at Network and Communication Service Unit of University of Peradeniya. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -22,9 +23,9 @@ My name is Chandula and I'm a Undergraduate at Department of Computer Engineerin
 ![](https://img.shields.io/badge/Tools-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
 
 <!-- link for social media -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [1]: https://twitter.com/ChandulaJpdm
 [2]: https://www.linkedin.com/in/chandulajpdm/
 
